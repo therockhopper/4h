@@ -7,3 +7,4 @@ menu:
 ---
 
 # 👋 
+[Blog](https://blog.frankschmidt.ca)

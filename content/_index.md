@@ -1,5 +1,5 @@
 ---
-title: You don't start out writing good stuff
-description: Welcome to my scratchpad.
+title: Welcome 
+description: Hi.
 ---
-Welcome to my scratchpad of Today I Learned (TIL) and things I am trying to remember.
+[Blog](https://blog.frankschmidt.ca)
