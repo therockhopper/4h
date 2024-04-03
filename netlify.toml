@@ -5,7 +5,3 @@ pip install poetry &&
 poetry install && 
 poetry run mkdocs build
 """
-
-[[plugins]]
-package = "netlify-plugin-cache-poetry"
-
