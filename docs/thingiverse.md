@@ -1,0 +1,2 @@
+# Thingiverse
+Thingiverse is an online platform where users can discover, share, and download digital designs for 3D printing. It offers a vast library of free designs contributed by a global community of makers, ranging from functional prototypes to decorative objects. Users can browse through categories, search for specific designs, or even upload their creations to share with others. Thingiverse makes it easy for anyone with access to a 3D printer to bring digital designs to life, fostering creativity and collaboration in the maker community.

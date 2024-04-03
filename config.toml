@@ -4,7 +4,6 @@ title = "4H Computer Program"
 themesDir = "themes"
 theme = "hugo-book"
 BookMenuBundle = '/menu'
-
 plugins:
   - search
   - git-revision-date-localized

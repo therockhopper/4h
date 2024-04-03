@@ -3,4 +3,7 @@ site_url: https://4h.frankschmidt.ca
 theme: material 
 nav:
   - Home: index.md
-  - About: about.md
+  - Project Requirements: work-requirement.md
+  - 3D Printing:
+    - Thingiverse: thingiverse.md
+    - Tinkercad: tinkercad.md

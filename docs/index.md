@@ -1,17 +1,18 @@
-# Welcome to MkDocs
+# 4H Computer Project Docs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Here you'll find information about our program, including the curriculum and resources to support your child's learning. It's designed to share information and resources with anyone who is interested in learning more about the project.
 
-## Commands
+## Meeting Schedule (Bi-Weekly):
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Every other Wednesday, we will meet at 6pm for 1.5 hours until 7:30pm.
 
-## Project layout
+| Day               | Topic         |
+| ----------------- | ------------- |
+| Wednesday, March 20 | Intro to 3D Printing     |
+| Wednesday, April 3 | Canceled     |
+| Wednesday, April 17 | Tinkercad intro     |
+| Wednesday, May 1 | TBD           |
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+## Important Links
+- [Project work requirements](/work-requirement)
