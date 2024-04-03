@@ -3,6 +3,15 @@ languageCode = "en-us"
 title = "4H Computer Program"
 themesDir = "themes"
 theme = "hugo-book"
-
 BookMenuBundle = '/menu'
 
+plugins:
+  - search
+  - git-revision-date-localized
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
+      htmlmin_opts:
+          remove_comments: true
+      cache_safe: true
