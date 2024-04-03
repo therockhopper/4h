@@ -1,0 +1,6 @@
+site_name: 4H Computer Project 
+site_url: https://4h.frankschmidt.ca
+theme: material 
+nav:
+  - Home: index.md
+  - About: about.md
