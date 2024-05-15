@@ -11,7 +11,8 @@ Every other Wednesday, we will meet at 6pm for 1.5 hours until 7:30pm.
 | Wednesday, March 20 | Intro to 3D Printing     |
 | Wednesday, April 3 | Canceled     |
 | Wednesday, April 17 | Tinkercad intro     |
-| Wednesday, May 1 | TBD           |
+| Wednesday, May 1 | Tinkercad + Code Acedmy       |
+| Wednesday, May 15 | Code Academy + Judging |
 
 
 ## Important Links

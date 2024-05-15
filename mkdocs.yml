@@ -4,6 +4,7 @@ theme: material
 nav:
   - Home: index.md
   - Project Requirements: work-requirement.md
+  - Judging: judging.md
   - 3D Printing:
     - Thingiverse: thingiverse.md
     - Tinkercad: tinkercad.md
